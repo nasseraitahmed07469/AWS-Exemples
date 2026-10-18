@@ -1,0 +1,4 @@
+{
+  "name": "AWS SAA Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
